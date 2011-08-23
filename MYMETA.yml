@@ -1,0 +1,27 @@
+---
+abstract: 'Browses online documentation of your Mojolicious application'
+author:
+  - 'Viliam Pucik <viliam.pucik@gmail.com>'
+build_requires: {}
+configure_requires: {}
+distribution_type: module
+dynamic_config: 0
+generated_by: 'ExtUtils::MakeMaker version 6.57_05'
+license: artistic_2
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Mojolicious-Plugin-ISAjax
+no_index:
+  directory:
+    - t
+    - inc
+    - t
+requires:
+  Mojolicious: 1.80
+  perl: 5.008007
+resources:
+  homepage: https://github.com/viliampucik/Mojolicious-Plugin-ISAjax
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/viliampucik/Mojolicious-Plugin-ISAjax.git
+version: 1.00
